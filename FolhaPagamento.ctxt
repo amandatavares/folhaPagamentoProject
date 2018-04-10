@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FolhaPagamento
+comment1.params=mes\ ano
+comment1.target=FolhaPagamento(int,\ int)
+comment2.params=mes
+comment2.target=void\ setMes(int)
+comment3.params=
+comment3.target=int\ getMes()
+comment4.params=ano
+comment4.target=void\ setAno(int)
+comment5.params=
+comment5.target=int\ getAno()
+comment6.params=
+comment6.target=java.lang.String\ calcularFolha()
+comment7.params=movimento
+comment7.target=void\ inserirOcorrencias(MovimentoFolha)
+numComments=8

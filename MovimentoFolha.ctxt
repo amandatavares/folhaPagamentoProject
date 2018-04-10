@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MovimentoFolha
+comment1.params=colaborador\ descricao\ valor\ tipoMovimento
+comment1.target=MovimentoFolha(Colaborador,\ java.lang.String,\ double,\ char)
+comment2.params=valor
+comment2.target=void\ setValor(double)
+comment3.params=
+comment3.target=double\ getValor()
+comment4.params=descricao
+comment4.target=void\ setDescricao(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getDescricao()
+comment6.params=tipoMovimento
+comment6.target=void\ setTipoMovimento(char)
+comment7.params=
+comment7.target=char\ getTipoMovimento()
+numComments=8
